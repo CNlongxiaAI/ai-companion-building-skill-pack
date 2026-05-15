@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="companionkit",
+    name="ai-companion-building-skill-pack",
     version="1.0.0",
     description="Self-developed AI companion framework with identity, emotion, memory, and verification",
     long_description=open("README.md", encoding="utf-8").read(),

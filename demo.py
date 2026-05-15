@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-CompanionKit Demo - Self-developed AI companion framework.
+AI Companion Building Skill Pack Demo - Self-developed AI companion framework.
 
 Run: python demo.py
 """
@@ -10,7 +10,7 @@ from companionkit import Companion, Identity
 
 def main():
     print("=" * 50)
-    print("CompanionKit Demo")
+    print("AI Companion Building Skill Pack Demo")
     print("=" * 50)
 
     # Define identity
